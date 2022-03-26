@@ -6,7 +6,7 @@ Full Stack Developer. Currently, active with cybersecurity research and Blockcha
 
 👨 See more about me <a href="https://comingsoon.com">**here**</a> !
 <details style="padding-left:3%">
-<summary><strong>Projects</strong></summary>
+<summary><strong>Projects</strong></summary><br>
 
 | Project | Tags |
 | --- | --- |
@@ -42,5 +42,3 @@ Full Stack Developer. Currently, active with cybersecurity research and Blockcha
 ---
 [![Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=mvrquxs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvrquxs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317wj7uesp6d5dxb3wp6gqpxakyq&count=1&width=1000)
