@@ -1,6 +1,6 @@
-# Hi, I'm Lucas Marques (☕💻)
+# Hi, I'm Lucas Marques (<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">💻)
 
-Full Stack Developer. Currently, active with cybersecurity research and Blockchain studies. 
+Full Stack Developer. Active with cybersecurity research and Blockchain studies. 
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://bit.ly/3tEIhmK) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://bit.ly/3ut6v2v) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvrquxs/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://bit.ly/36sDrAc) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://bit.ly/3DbmnLd)
 
