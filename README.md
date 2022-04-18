@@ -35,9 +35,9 @@ Full Stack Developer. Active with cybersecurity research and Blockchain studies.
 ---
 ### Recent Posts
 - [Como consumir uma API de Criptomoedas usando cURL (PHP)](https://bit.ly/3uxpUPN------2)
-- [Como consumir uma API de Criptomoedas usando cURL (PHP)](https://bit.ly/3uxpUPN------2)
-- [Como consumir uma API de Criptomoedas usando cURL (PHP)](https://bit.ly/3uxpUPN------2)
-- [Como consumir uma API de Criptomoedas usando cURL (PHP)](https://bit.ly/3uxpUPN------2)
+- [Passing parameters to API in PHP](https://lucasmvrquxs.notion.site/Passing-parameters-to-API-in-PHP-fbe30802bc644a099ef0f1c8b2b4a2b1)
+- [Como instalar o BackBox Linux (Pentesting)](https://www.youtube.com/watch?v=YcIyxpaQCoI&t=63s)
+- [Como usar PHP na Vercel utilizando um Runtime](https://www.youtube.com/watch?v=C_qvQo7PJMU&t=309s)
 
 ---
 [![Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=mvrquxs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
