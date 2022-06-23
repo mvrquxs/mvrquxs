@@ -10,7 +10,7 @@ Full Stack Developer. Active with cybersecurity research and Blockchain studies.
 
 | Project | Tags |
 | --- | --- |
-| [**Brofy**: Brofy](https://brofy.com.br/) | <img src="https://img.shields.io/badge/-PyPi-blue"> <img src="https://img.shields.io/badge/-Embeddings-red"> <img src="https://img.shields.io/badge/-cTFIDF-red"> <img src="https://img.shields.io/badge/-UMAP-81D4FA"> <img src="https://img.shields.io/badge/-HDBSCAN-81D4FA"> <img src="https://img.shields.io/badge/-Python-blue">|
+| [**Jacob**: Artificial intelligence ](https://github.com/mvrquxs/jacob-neural) | <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white"> <img src="https://img.shields.io/badge/openSUSE-%2364B345?style=flat&logo=openSUSE&logoColor=white"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white">|
 | [**Cryptocurrency**: SpixTo - Crypto API](https://github.com/mvrquxs/cryptocurrency-api) | <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">|
 
 </details>  
