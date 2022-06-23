@@ -28,14 +28,12 @@ Full Stack Developer. Active with cybersecurity research and Blockchain studies.
 <br>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-05122A?style=flat&logo=django&logoColor=green)&nbsp;
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ---
 ### Recent Posts
-- [Como consumir uma API de Criptomoedas usando cURL (PHP)](https://bit.ly/3uxpUPN------2)
-- [Passing parameters to API in PHP](https://lucasmvrquxs.notion.site/Passing-parameters-to-API-in-PHP-fbe30802bc644a099ef0f1c8b2b4a2b1)
+- [Como consumir uma API de Criptomoedas usando cURL (PHP)](https://medium.com/@mvrquxsdev/como-consumir-uma-api-de-criptomoedas-usando-curl-php-1f183a32c55c)
 - [Como instalar o BackBox Linux (Pentesting)](https://www.youtube.com/watch?v=YcIyxpaQCoI&t=63s)
 - [Como usar PHP na Vercel utilizando um Runtime](https://www.youtube.com/watch?v=C_qvQo7PJMU&t=309s)
 
